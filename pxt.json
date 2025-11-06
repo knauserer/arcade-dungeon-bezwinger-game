@@ -7,7 +7,8 @@
         "arcade-overworld": "github:riknoll/arcade-overworld#v0.0.5",
         "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
     },
     "files": [
         "main.blocks",
